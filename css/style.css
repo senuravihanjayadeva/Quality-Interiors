@@ -716,7 +716,7 @@ section {
 
 .logo-nav {
 	float: left;
-	line-height: 60px;
+	line-height: 65px;
 }
 
 
@@ -998,7 +998,7 @@ html[xmlns] .slides {
 /*-----------------------------------------------------------------*/
 
 #facts {
-	background:url(../images/parallax/facts.jpg) no-repeat;
+	background:url(../images/slider/2.jpg) no-repeat;
 	padding: 150px 0px 100px;
 }
 
